@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "loops.java",
         "If-else",
-        "loops.java"
+        "Patterns"
     ]
 }
