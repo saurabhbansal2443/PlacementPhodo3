@@ -1,8 +1,8 @@
-public class pattern5 {
+public class pattern6 {
     public static void main(String[] args) {
         int n = 5;
 
-        int nst = n;
+        int nst = 1;
 
         for (int i = 1; i <= 2 * n - 1; i++) {
 
@@ -11,9 +11,9 @@ public class pattern5 {
             }
             System.out.println();
             if (i < n) {
-                nst--;
-            } else {
                 nst++;
+            } else {
+                nst--;
             }
 
         }
