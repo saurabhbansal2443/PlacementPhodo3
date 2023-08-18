@@ -1,6 +1,6 @@
 public class pattern13 {
     public static void main(String[] args) {
-        int n = 7;
+        int n = 3;
         int nsp = 2 * n - 3;
         int nst = 1;
         for (int i = 1; i <= 2 * n - 1; i++) { // rows
